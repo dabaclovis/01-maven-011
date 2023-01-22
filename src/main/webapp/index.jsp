@@ -41,7 +41,7 @@
         </div>
     </nav>
     <!-- container -->
-        <div class="container">
+        <div class="container py-4">
             <!-- jumbotron -->
             <div class="jumbotron">
                 <h1 class="display-3">Jumbo heading</h1>
